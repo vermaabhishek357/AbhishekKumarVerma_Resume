@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.18)  23 APR 2017 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.18)  23 APR 2017 23:55
 entering extended mode
 **./res.tex
 (res.tex
@@ -209,21 +209,22 @@ Package pdftex.def Info: pic.jpg used on input line 21.
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./pic.jpg>] (res.aux) ) 
 Here is how much of TeX's memory you used:
- 1966 strings out of 493333
- 28146 string characters out of 3139185
+ 1969 strings out of 493333
+ 28183 string characters out of 3139185
  92325 words of memory out of 3000000
- 5499 multiletter control sequences out of 15000+200000
- 4255 words of font info for 16 fonts, out of 3000000 for 9000
+ 5501 multiletter control sequences out of 15000+200000
+ 4860 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,7n,25p,233b,210s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on res.pdf (1 page, 52237 bytes).
+9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb>
+Output written on res.pdf (1 page, 66191 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
